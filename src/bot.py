@@ -45,6 +45,7 @@ M3U_SOURCES = [
     'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Россия.m3u',
     'https://raw.githubusercontent.com/free-TV/iptv/master/playlist.m3u8',
     'https://raw.githubusercontent.com/playlist-iptv/All/main/all.m3u',
+    'https://raw.githubusercontent.com/CrocoUser/zabava-project/refs/heads/main/zabava-full.m3u',
     'https://iptv-organizer.netlify.app/iptv/russia.m3u',
     'https://github.com/Manifesto-TV/IPTV/raw/main/TV/Russia.m3u',
 ]
