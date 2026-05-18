@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Документация - LiveM3U Premium</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            --glass-bg: rgba(255, 255, 255, 0.08);
+            --glass-border: rgba(255, 255, 255, 0.2);
+            --neon-blue: #00f5ff;
+            --neon-purple: #bd00ff;
+            --dark-bg: #0a0a0f;
+        }
+        body {
+            font-family: 'Segoe UI', 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--dark-bg);
+            color: #fff;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 {
+            font-size: 2.5em;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        h2 {
+            font-size: 1.5em;
+            color: var(--neon-blue);
+            margin: 30px 0 15px;
+        }
+        .doc-section {
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            padding: 25px;
+            margin-bottom: 20px;
+        }
+        .doc-section p, .doc-section li {
+            color: rgba(255, 255, 255, 0.8);
+            line-height: 1.7;
+        }
+        .doc-section ul, .doc-section ol {
+            margin-left: 25px;
+            margin-top: 10px;
+        }
+        code {
+            background: rgba(0,0,0,0.5);
+            padding: 15px;
+            display: block;
+            margin: 15px 0;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            color: var(--neon-blue);
+        }
+        .back-link {
+            display: block;
+            text-align: center;
+            margin-top: 40px;
+            color: var(--neon-purple);
+            text-decoration: none;
+            font-size: 1.1em;
+        }
+        .back-link:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Документация LiveM3U</h1>
+        
+        <div class="doc-section">
+            <h2>🔧 Установка и запуск</h2>
+            <p>Для запуска поискового робота выполните следующие команды:</p>
+            <code>
+# Клонирование репозитория<br>
+git clone https://github.com/your-repo/livem3u.git<br>
+cd livem3u<br>
+<br>
+# Установка зависимостей<br>
+pip install -r requirements.txt<br>
+<br>
+# Однократный запуск<br>
+python src/bot.py --once<br>
+<br>
+# Непрерывный режим (обновление каждые 30 мин)<br>
+python src/bot.py --interval 1800
+            </code>
+        </div>
+        
+        <div class="doc-section">
+            <h2>⚙️ Параметры запуска</h2>
+            <ul>
+                <li><strong>--once</strong> — однократный запуск сканирования</li>
+                <li><strong>--interval N</strong> — интервал повторного запуска в секундах (по умолчанию 1800 = 30 мин)</li>
+                <li><strong>--ip-ranges</strong> — IP диапазоны для сканирования (опционально)</li>
+            </ul>
+        </div>
+        
+        <div class="doc-section">
+            <h2>📁 Структура проекта</h2>
+            <ul>
+                <li><code>/src/bot.py</code> — основной скрипт поискового робота</li>
+                <li><code>/config/sources.json</code> — источники для поиска</li>
+                <li><code>/config/channels.json</code> — конфигурация каналов</li>
+                <li><code>/data/playlist.m3u</code> — сгенерированный плейлист</li>
+                <li><code>/data/found_streams.json</code> — база найденных потоков</li>
+                <li><code>/data/channel_history.json</code> — история каналов</li>
+                <li><code>/index.html</code> — веб-интерфейс</li>
+            </ul>
+        </div>
+        
+        <div class="doc-section">
+            <h2>🔍 Как работает поиск</h2>
+            <p>Поисковой робот использует несколько методов для нахождения IPTV потоков:</p>
+            <ol>
+                <li>Сканирование публичных M3U плейлистов на GitHub и других ресурсах</li>
+                <li>Поиск через поисковые системы (Google, Яндекс) по специальным запросам</li>
+                <li>Анализ сайтов российских провайдеров и агрегаторов</li>
+                <li>Поиск независимых телеканалов (Дождь, RTVI и др.)</li>
+                <li>Проверка популярных IPTV паттернов URL</li>
+            </ol>
+        </div>
+        
+        <div class="doc-section">
+            <h2>🌐 Прокси</h2>
+            <p>Для обхода блокировок используется прокси <code>secure-272717.tatnet.app</code>. 
+            Каналы Zabava-HLive (ngenix.net) работают напрямую без прокси для максимальной скорости и стабильности.</p>
+        </div>
+        
+        <div class="doc-section">
+            <h2>📊 Формат плейлиста</h2>
+            <p>Плейлист генерируется в формате M3U с метаданными:</p>
+            <code>
+#EXTM3U<br>
+#EXTINF:-1 tvg-name="Channel Name" group-title="Group",Channel Name<br>
+https://stream-url.com/playlist.m3u8
+            </code>
+        </div>
+        
+        <div class="doc-section">
+            <h2>🔧 Настройка</h2>
+            <p>Вы можете настроить параметры поиска в файле <code>/src/bot.py</code>:</p>
+            <ul>
+                <li><code>IPTV_PORTS</code> — порты для сканирования</li>
+                <li><code>RU_KEYWORDS</code> — ключевые слова для поиска русскоязычных каналов</li>
+                <li><code>M3U_SOURCES</code> — источники M3U плейлистов</li>
+                <li><code>ZABAVA_HLIVE_DIRECT</code> — прямые ссылки на каналы Забава/Винк</li>
+            </ul>
+        </div>
+        
+        <a href="/index.html" class="back-link">← Вернуться на главную</a>
+    </div>
+</body>
+</html>

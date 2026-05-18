@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ - LiveM3U Premium</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            --glass-bg: rgba(255, 255, 255, 0.08);
+            --glass-border: rgba(255, 255, 255, 0.2);
+            --neon-blue: #00f5ff;
+            --neon-purple: #bd00ff;
+            --dark-bg: #0a0a0f;
+        }
+        body {
+            font-family: 'Segoe UI', 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--dark-bg);
+            color: #fff;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 {
+            font-size: 2.5em;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .faq-item {
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            padding: 25px;
+            margin-bottom: 20px;
+        }
+        .faq-question {
+            font-size: 1.2em;
+            font-weight: 700;
+            color: var(--neon-blue);
+            margin-bottom: 15px;
+        }
+        .faq-answer {
+            color: rgba(255, 255, 255, 0.8);
+            line-height: 1.7;
+        }
+        .back-link {
+            display: block;
+            text-align: center;
+            margin-top: 40px;
+            color: var(--neon-purple);
+            text-decoration: none;
+            font-size: 1.1em;
+        }
+        .back-link:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>❓ Часто задаваемые вопросы (FAQ)</h1>
+        
+        <div class="faq-item">
+            <div class="faq-question">Что такое LiveM3U?</div>
+            <div class="faq-answer">
+                LiveM3U — это автоматический поисковой робот IPTV, который самостоятельно находит рабочие телеканалы по всему интернету. 
+                Плейлист обновляется каждые 30 минут и содержит 20000+ каналов РФ, СНГ и зарубежных.
+            </div>
+        </div>
+        
+        <div class="faq-item">
+            <div class="faq-question">Как использовать плейлист?</div>
+            <div class="faq-answer">
+                1. Скопируйте ссылку на плейлист (https://your-domain.com/data/playlist.m3u)<br>
+                2. Откройте ваш IPTV плеер (VLC, Kodi, Perfect Player, IPTV Smarters, Smart TV)<br>
+                3. Добавьте плейлист через URL или загрузите файл<br>
+                4. Наслаждайтесь просмотром!
+            </div>
+        </div>
+        
+        <div class="faq-item">
+            <div class="faq-question">Почему некоторые каналы не работают?</div>
+            <div class="faq-answer">
+                IPTV потоки могут временно отключаться провайдерами. Наш робот постоянно сканирует интернет 
+                и добавляет новые рабочие каналы. Если канал не работает, подождите следующего обновления (30 минут).
+            </div>
+        </div>
+        
+        <div class="faq-item">
+            <div class="faq-question">Что такое прокси и зачем он нужен?</div>
+            <div class="faq-answer">
+                Прокси (secure-272717.tatnet.app) используется для обхода блокировок некоторых каналов. 
+                Каналы Zabava-HLive работают напрямую без прокси для максимальной скорости.
+            </div>
+        </div>
+        
+        <div class="faq-item">
+            <div class="faq-question">Как часто обновляется плейлист?</div>
+            <div class="faq-answer">
+                Плейлист автоматически обновляется каждые 30 минут. Новые каналы добавляются, 
+                нерабочие помечаются и исключаются из выдачи.
+            </div>
+        </div>
+        
+        <div class="faq-item">
+            <div class="faq-question">Какие каналы доступны?</div>
+            <div class="faq-answer">
+                Доступны более 20000 каналов: федеральные РФ (Первый, Россия, НТВ, ТНТ, СТС и др.), 
+                региональные, независимые (Дождь, RTVI), зарубежные (BBC, CNN, Euronews, ESPN, Discovery), 
+                кино, спорт, музыка, детские и многие другие.
+            </div>
+        </div>
+        
+        <div class="faq-item">
+            <div class="faq-question">Это бесплатно?</div>
+            <div class="faq-answer">
+                Да, сервис полностью бесплатный и будет оставаться таковым навсегда.
+            </div>
+        </div>
+        
+        <div class="faq-item">
+            <div class="faq-question">Как запустить собственного робота?</div>
+            <div class="faq-answer">
+                Исходный код открыт. Запустите:<br>
+                <code style="background: rgba(0,0,0,0.5); padding: 10px; display: block; margin-top: 10px; border-radius: 8px;">
+                    python src/bot.py --once # Однократный запуск<br>
+                    python src/bot.py --interval 1800 # Постоянный режим
+                </code>
+            </div>
+        </div>
+        
+        <a href="/index.html" class="back-link">← Вернуться на главную</a>
+    </div>
+</body>
+</html>

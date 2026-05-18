@@ -831,8 +831,9 @@ class IPTVScanner:
             name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
 
-            # Проверяем является ли URL zabava-htlive - для них НЕ используем прокси
-            is_zabava = 'zabava-htlive' in url.lower() or 'zabava-hlive' in url.lower()
+            # Проверяем является ли URL zabava-htlive/zabava-hlive - для них НЕ используем прокси
+            is_zabava = 'zabava-htlive' in url.lower() or 'zabava-hlive' in url.lower() or \
+                        'ngenix.net' in url.lower()
             
             if is_zabava:
                 # Прямая ссылка без прокси для zabava-hlive
