@@ -1,61 +1,51 @@
-name: LiveM3U Auto Update with Proxy
+name: LiveM3U Auto Update Scanner
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '*/30 * * * *'  # Запуск каждые 30 минут
+  workflow_dispatch:        # Возможность ручного запуска
 
 permissions:
-  contents: write
+  contents: write           # Разрешение на запись в репозиторий
 
 jobs:
-  update-playlists:
+  scan-and-commit:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
-      
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # Стабильная версия
+        
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-      
-      - name: Install dependencies
+          python-version: '3.11'
+          
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-      
-      - name: Run IPTV Scanner with Proxy secure-272717.tatnet.app
-        run: |
-          echo "🚀 Запуск сканера через прокси secure-272717.tatnet.app..."
-          if [ -f "scanner.py" ]; then
-            python scanner.py
-          elif [ -f "src/bot.py" ]; then
-            python src/bot.py --once
-          else
-            echo "❌ Ошибка: scanner.py или src/bot.py не найдены!"
-            exit 1
-          fi
+          pip install aiohttp
+          
+      - name: Run IPTV Scanner
+        run: python scanner.py
         env:
-          PYTHONUNBUFFERED: "1"
           PROXY_HOST: "secure-272717.tatnet.app"
           PROXY_PORT: "8080"
-      
-      - name: Configure Git
+          PYTHONUNBUFFERED: "1"
+          
+      - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-      
-      - name: Commit and push changes
-        run: |
+          
+          # Добавляем все изменения
           git add -A
+          
+          # Проверяем, есть ли изменения
           if git diff --staged --quiet; then
-            echo "✅ Изменений нет"
+            echo "✅ Изменений нет, плейлисты актуальны."
           else
-            git commit -m "🤖 Автообновление плейлистов $(date '+%Y-%m-%d %H:%M:%S') [Proxy: secure-272717.tatnet.app]"
+            git commit -m "🤖 Автообновление: $(date '+%Y-%m-%d %H:%M') | Прокси: secure-272717.tatnet.app"
             git push
-            echo "✅ Обновление успешно отправлено в репозиторий!"
+            echo "✅ Обновление успешно загружено в репозиторий!"
           fi
