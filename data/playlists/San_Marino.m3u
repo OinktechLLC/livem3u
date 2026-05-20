@@ -1,17 +1,18 @@
 #EXTM3U
-# Обновлено: 2026-05-20 13:46:57
+# Обновлено: 2026-05-20 13:52:41
 # Всего каналов: 16275
-# Новых за сессию: 1
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: San Marino
 # Каналов: 2
-# Обновлено: 2026-05-20 13:46:58
+# Обновлено: 2026-05-20 13:52:41
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="San Marino Rtv Sport" group-title="San Marino",San Marino Rtv Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 
 #EXTINF:-1 tvg-name="San Marino Rtv" group-title="San Marino",San Marino Rtv
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 

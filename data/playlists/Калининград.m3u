@@ -1,74 +1,75 @@
 #EXTM3U
-# Обновлено: 2026-05-20 13:46:57
+# Обновлено: 2026-05-20 13:52:41
 # Всего каналов: 16275
-# Новых за сессию: 1
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Калининград
 # Каналов: 21
-# Обновлено: 2026-05-20 13:46:58
+# Обновлено: 2026-05-20 13:52:41
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Россия 1 (Калининград)" group-title="Калининград",Россия 1 (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-name="Матч ТВ (Калининград)" group-title="Калининград",Матч ТВ (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 
 #EXTINF:-1 tvg-name="НТВ (Калининград)" group-title="Калининград",НТВ (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия К (Калининград)" group-title="Калининград",Россия К (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 24 (Калининград)" group-title="Калининград",Россия 24 (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Карусель (Калининград)" group-title="Калининград",Карусель (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Калининград)" group-title="Калининград",РЕН ТВ (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="СТС (Калининград)" group-title="Калининград",СТС (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 
 #EXTINF:-1 tvg-name="Домашний (Калининград)" group-title="Калининград",Домашний (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Звезда (Калининград)" group-title="Калининград",Звезда (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ (Калининград)" group-title="Калининград",ТНТ (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Че! (Калининград)" group-title="Калининград",Че! (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 
 #EXTINF:-1 tvg-name="Первый (Калининград)" group-title="Калининград",Первый (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
 
 #EXTINF:-1 tvg-name="МИР (Калининград)" group-title="Калининград",МИР (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KLNG_FILIAL/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KLNG_FILIAL/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятый (Калининград)" group-title="Калининград",Пятый (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ Центр (Калининград)" group-title="Калининград",ТВ Центр (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Калининград)" group-title="Калининград",ТВ-3 (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятница! (Калининград)" group-title="Калининград",Пятница! (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Ю (Калининград)" group-title="Калининград",Ю (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОТР (Калининград)" group-title="Калининград",ОТР (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
 
 #EXTINF:-1 tvg-name="Каскад (Калининград)" group-title="Калининград",Каскад (Калининград)
-https://secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 

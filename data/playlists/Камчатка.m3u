@@ -1,53 +1,54 @@
 #EXTM3U
-# Обновлено: 2026-05-20 13:46:57
+# Обновлено: 2026-05-20 13:52:41
 # Всего каналов: 16275
-# Новых за сессию: 1
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Камчатка
 # Каналов: 14
-# Обновлено: 2026-05-20 13:46:58
+# Обновлено: 2026-05-20 13:52:41
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ТНТ (Камчатка)" group-title="Камчатка",ТНТ (Камчатка)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_TNT/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_TNT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Первый (Камчатский КР)" group-title="Камчатка",Первый (Камчатский КР)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R03_1TV_KAM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R03_1TV_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 (Камчатский КР)" group-title="Камчатка",Россия 1 (Камчатский КР)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Матч ТВ (Камчатский КР)" group-title="Камчатка",Матч ТВ (Камчатский КР)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_MATCHTV_KAM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_MATCHTV_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 24 (Камчатский КР)" group-title="Камчатка",Россия 24 (Камчатский КР)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KAM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Карусель (Камчатский КР)" group-title="Камчатка",Карусель (Камчатский КР)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_KARUSEL_KAM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_KARUSEL_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Спас (Камчатский КР)" group-title="Камчатка",Спас (Камчатский КР)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R03_SPAS_KAM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R03_SPAS_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-name="СТС (Камчатский КР)" group-title="Камчатка",СТС (Камчатский КР)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R02_STS_KAM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R02_STS_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятница! (Камчатка)" group-title="Камчатка",Пятница! (Камчатка)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_FRIDAY/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_FRIDAY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятый (Камчатский КР)" group-title="Камчатка",Пятый (Камчатский КР)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R02_5TV_KAM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R02_5TV_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОТР (Камчатский КР)" group-title="Камчатка",ОТР (Камчатский КР)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_OTR_KAM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_OTR_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятница! (Камчатский КР)" group-title="Камчатка",Пятница! (Камчатский КР)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_FRIDAY_KAM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_FRIDAY_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-name="41 регион (Петропавловск-Камчатский)" group-title="Камчатка",41 регион (Петропавловск-Камчатский)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R02_41REG_OTT/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R02_41REG_OTT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Камчатка 1 (Камчатка)" group-title="Камчатка",Камчатка 1 (Камчатка)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_KAMCHATKA/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_KAMCHATKA/variant.m3u8
 

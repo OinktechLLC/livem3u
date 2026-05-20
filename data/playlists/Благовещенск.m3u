@@ -1,47 +1,48 @@
 #EXTM3U
-# Обновлено: 2026-05-20 13:46:57
+# Обновлено: 2026-05-20 13:52:41
 # Всего каналов: 16275
-# Новых за сессию: 1
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Благовещенск
 # Каналов: 12
-# Обновлено: 2026-05-20 13:46:58
+# Обновлено: 2026-05-20 13:52:41
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Россия 1 (Благовещенск)" group-title="Благовещенск",Россия 1 (Благовещенск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-name="НТВ (Белогорск)" group-title="Благовещенск",НТВ (Белогорск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R01_NTV_BLG/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R01_NTV_BLG/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия К (Белогорск)" group-title="Благовещенск",Россия К (Белогорск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R01_ROSSIAK_BLG/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R01_ROSSIAK_BLG/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 24 (Белогорск)" group-title="Благовещенск",Россия 24 (Белогорск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R01_ROSSIA24_BLG/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R01_ROSSIA24_BLG/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Белогорск)" group-title="Благовещенск",РЕН ТВ (Белогорск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R01_RENTV_BLG/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R01_RENTV_BLG/variant.m3u8
 
 #EXTINF:-1 tvg-name="СТС (Белогорск)" group-title="Благовещенск",СТС (Белогорск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R01_STS_BLG/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R01_STS_BLG/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ (Благовещенск)" group-title="Благовещенск",ТНТ (Благовещенск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_TNT/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_TNT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятый (Благовещенск)" group-title="Благовещенск",Пятый (Благовещенск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОТР (Благовещенск)" group-title="Благовещенск",ОТР (Благовещенск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_OTR/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_OTR/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятница! (Благовещенск)" group-title="Благовещенск",Пятница! (Благовещенск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_FRIDAY/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_FRIDAY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Амурское Областное ТВ (Благовещенск)" group-title="Благовещенск",Амурское Областное ТВ (Благовещенск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_AOT/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_AOT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Город 24 (Благовещенск)" group-title="Благовещенск",Город 24 (Благовещенск)
-https://secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_GOROD24/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_GOROD24/variant.m3u8
 

@@ -1,80 +1,81 @@
 #EXTM3U
-# Обновлено: 2026-05-20 13:46:57
+# Обновлено: 2026-05-20 13:52:41
 # Всего каналов: 16275
-# Новых за сессию: 1
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Элиста
 # Каналов: 23
-# Обновлено: 2026-05-20 13:46:58
+# Обновлено: 2026-05-20 13:52:41
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Элиста)" group-title="Элиста",Первый (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 (Элиста)" group-title="Элиста",Россия 1 (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-name="Матч ТВ (Элиста)" group-title="Элиста",Матч ТВ (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 
 #EXTINF:-1 tvg-name="НТВ (Элиста)" group-title="Элиста",НТВ (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия К (Элиста)" group-title="Элиста",Россия К (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 24 (Элиста)" group-title="Элиста",Россия 24 (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Карусель (Элиста)" group-title="Элиста",Карусель (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Элиста)" group-title="Элиста",РЕН ТВ (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="СТС (Элиста)" group-title="Элиста",СТС (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 
 #EXTINF:-1 tvg-name="Домашний (Элиста)" group-title="Элиста",Домашний (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Звезда (Элиста)" group-title="Элиста",Звезда (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ (Элиста)" group-title="Элиста",ТНТ (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Че! (Элиста)" group-title="Элиста",Че! (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 
 #EXTINF:-1 tvg-name="МИР (Республика Калмыкия)" group-title="Элиста",МИР (Республика Калмыкия)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KALM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KALM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятый (Элиста)" group-title="Элиста",Пятый (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОТР (Элиста)" group-title="Элиста",ОТР (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ Центр (Элиста)" group-title="Элиста",ТВ Центр (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Элиста)" group-title="Элиста",ТВ-3 (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятница! (Элиста)" group-title="Элиста",Пятница! (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Ю (Элиста)" group-title="Элиста",Ю (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 
 #EXTINF:-1 tvg-name="МУЗ-ТВ (Республика Калмыкия)" group-title="Элиста",МУЗ-ТВ (Республика Калмыкия)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R06_MUZTV_KALM/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R06_MUZTV_KALM/variant.m3u8
 
 #EXTINF:-1 tvg-name="НТК (Элиста)" group-title="Элиста",НТК (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_HAMDAN/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_HAMDAN/variant.m3u8
 
 #EXTINF:-1 tvg-name="Калмыкия-24 (Республика Калмыкия)" group-title="Элиста",Калмыкия-24 (Республика Калмыкия)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R06_KALMYKIYA24/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R06_KALMYKIYA24/variant.m3u8
 

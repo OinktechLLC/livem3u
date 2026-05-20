@@ -1,14 +1,15 @@
 #EXTM3U
-# Обновлено: 2026-05-20 13:46:57
+# Обновлено: 2026-05-20 13:52:41
 # Всего каналов: 16275
-# Новых за сессию: 1
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 1
-# Обновлено: 2026-05-20 13:46:58
+# Обновлено: 2026-05-20 13:52:41
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Sin Po TV (540p)" group-title="News;Sports",Sin Po TV (540p)
-https://secure-272717.tatnet.app/cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 

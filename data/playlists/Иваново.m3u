@@ -1,74 +1,75 @@
 #EXTM3U
-# Обновлено: 2026-05-20 13:46:57
+# Обновлено: 2026-05-20 13:52:41
 # Всего каналов: 16275
-# Новых за сессию: 1
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Иваново
 # Каналов: 21
-# Обновлено: 2026-05-20 13:46:58
+# Обновлено: 2026-05-20 13:52:41
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Иваново)" group-title="Иваново",Первый (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 (Иваново)" group-title="Иваново",Россия 1 (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-name="Матч ТВ (Иваново)" group-title="Иваново",Матч ТВ (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 
 #EXTINF:-1 tvg-name="НТВ (Иваново)" group-title="Иваново",НТВ (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия К (Иваново)" group-title="Иваново",Россия К (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 24 (Иваново)" group-title="Иваново",Россия 24 (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Карусель (Иваново)" group-title="Иваново",Карусель (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Иваново)" group-title="Иваново",РЕН ТВ (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="СТС (Иваново)" group-title="Иваново",СТС (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 
 #EXTINF:-1 tvg-name="Домашний (Иваново)" group-title="Иваново",Домашний (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Звезда (Иваново)" group-title="Иваново",Звезда (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ (Иваново)" group-title="Иваново",ТНТ (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Че! (Иваново)" group-title="Иваново",Че! (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятый (Иваново)" group-title="Иваново",Пятый (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОТР (Иваново)" group-title="Иваново",ОТР (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ Центр (Иваново)" group-title="Иваново",ТВ Центр (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Иваново)" group-title="Иваново",ТВ-3 (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятница! (Иваново)" group-title="Иваново",Пятница! (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Ю (Иваново)" group-title="Иваново",Ю (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 
 #EXTINF:-1 tvg-name="Барс (Иваново)" group-title="Иваново",Барс (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_BARS/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_BARS/variant.m3u8
 
 #EXTINF:-1 tvg-name="ИОТ (Иваново)" group-title="Иваново",ИОТ (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_IOT/variant.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_IOT/variant.m3u8
 
