@@ -388,7 +388,7 @@ class IPTVScanner:
             return True  # По умолчанию разрешаем - ГЛАВНЫЙ ПРИНЦИП: НЕ ТЕРЯТЬ КАНАЛЫ!
 
     async def check_and_add(self, url: str, source: str = "scan", name: str = None, group: str = "IPTV") -> bool:
-        """Проверяет и добавляет канал, НЕ удаляя старые"""
+        """Проверяет и добавляет канал - ГЛАВНЫЙ ПРИНЦИП: ВСЕГДА ДОБАВЛЯТЬ ИЗ ИСТОЧНИКОВ!"""
         async with self.semaphore:
             try:
                 # Пропускаем исключенный домен
@@ -404,26 +404,39 @@ class IPTVScanner:
                 is_ru = any(kw in url.lower() for kw in RU_KEYWORDS) or \
                         any(kw in channel_name.lower() for kw in RU_KEYWORDS)
                 
-                # Для приоритетных источников и m3u-источников не проверяем доступность в GitHub Actions
-                # чтобы не терять каналы из-за проблем с сетью
-                if source not in ["priority", "m3u_source"]:
-                    # Проверяем доступность только для веб-поиска
-                    is_available = await self.check_stream_availability(url)
-                    if not is_available:
-                        return False
+                # ВАЖНО: Для m3u источников и приоритетных каналов - добавляем БЕЗ проверки!
+                # Это гарантирует что мы не потеряем каналы из плейлистов
+                if source in ["priority", "m3u_source"]:
+                    if len(self.found_streams) < 30000:
+                        stream_hash = self.get_stream_hash(url)
+                        self.found_streams[url] = {
+                            'name': channel_name,
+                            'url': url,
+                            'found_at': datetime.now().isoformat(),
+                            'country': 'RU' if is_ru else 'INT',
+                            'group': group,
+                            'source': source,
+                            'hash': stream_hash
+                        }
+                        self.channel_history[stream_hash] = {
+                            'url': url,
+                            'name': channel_name,
+                            'first_seen': self.channel_history.get(stream_hash, {}).get('first_seen', datetime.now().isoformat()),
+                            'last_seen': datetime.now().isoformat(),
+                            'status': 'alive',
+                            'country': 'RU' if is_ru else 'INT'
+                        }
+                        self.new_channels_count += 1
+                        self.log(f"🆕 Добавлен канал: {channel_name} ({source})")
+                        return True
+                    return False
                 
-                # Добавляем канал (ограничение 30000)
+                # Для веб-поиска проверяем но ВСЕГДА добавляем даже если проверка не прошла
+                is_available = await self.check_stream_availability(url)
+                
+                # Добавляем независимо от результата проверки!
                 if len(self.found_streams) < 30000:
                     stream_hash = self.get_stream_hash(url)
-                    
-                    # НЕ блокируем добавление по истории - даем шанс каналу
-                    # Вместо этого просто логируем если был помечен как dead
-                    if stream_hash in self.channel_history:
-                        old_info = self.channel_history[stream_hash]
-                        if old_info.get('status') == 'dead':
-                            # Все равно добавляем - вдруг канал ожил!
-                            self.log(f"♻️ Канал вернулся из мертвых: {channel_name}")
-                    
                     self.found_streams[url] = {
                         'name': channel_name,
                         'url': url,
@@ -431,25 +444,45 @@ class IPTVScanner:
                         'country': 'RU' if is_ru else 'INT',
                         'group': group,
                         'source': source,
-                        'hash': stream_hash
+                        'hash': stream_hash,
+                        'checked': is_available
                     }
-                    
                     self.channel_history[stream_hash] = {
                         'url': url,
                         'name': channel_name,
                         'first_seen': self.channel_history.get(stream_hash, {}).get('first_seen', datetime.now().isoformat()),
                         'last_seen': datetime.now().isoformat(),
-                        'status': 'alive',
+                        'status': 'alive' if is_available else 'unchecked',
                         'country': 'RU' if is_ru else 'INT'
                     }
-                    
                     self.new_channels_count += 1
+                    status = "✓" if is_available else "⚠️"
+                    self.log(f"{status} Добавлен канал: {channel_name} ({source})")
                     return True
-                    
                 return False
-                
+                    
             except Exception as e:
-                self.log(f"⚠️ Ошибка при проверке канала: {e}")
+                # При ошибке ВСЕ РАВНО пытаемся добавить канал - лучше иметь чем потерять!
+                try:
+                    if len(self.found_streams) < 30000 and url not in self.found_streams:
+                        channel_name = self.clean_channel_name(name or "Unknown")
+                        is_ru = any(kw in url.lower() for kw in RU_KEYWORDS)
+                        stream_hash = self.get_stream_hash(url)
+                        self.found_streams[url] = {
+                            'name': channel_name,
+                            'url': url,
+                            'found_at': datetime.now().isoformat(),
+                            'country': 'RU' if is_ru else 'INT',
+                            'group': group,
+                            'source': source,
+                            'hash': stream_hash,
+                            'error': str(e)
+                        }
+                        self.new_channels_count += 1
+                        self.log(f"⚠️ Добавлен с ошибкой: {channel_name}")
+                        return True
+                except:
+                    pass
                 return False
 
     async def fetch_m3u_from_source(self, url: str) -> List[Dict]:

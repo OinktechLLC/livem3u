@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-05-22 13:19:42
+# Обновлено: 2026-05-22 14:09:50
 # Всего каналов: 7282
 # Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Albania
 # Каналов: 13
-# Обновлено: 2026-05-22 13:19:42
+# Обновлено: 2026-05-22 14:09:50
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="Albania",A2 CNN Albania
 https://secure-272717.tatnet.app/tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
