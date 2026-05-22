@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-05-22 13:19:42
+# Обновлено: 2026-05-22 14:09:50
 # Всего каналов: 7282
 # Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Public;Weather
 # Каналов: 1
-# Обновлено: 2026-05-22 13:19:42
+# Обновлено: 2026-05-22 14:09:50
 
 #EXTINF:-1 tvg-name="3Cat Càmeres del temps" group-title="Public;Weather",3Cat Càmeres del temps
 https://secure-272717.tatnet.app/directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8

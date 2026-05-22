@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-05-22 13:19:42
+# Обновлено: 2026-05-22 14:09:50
 # Всего каналов: 7282
 # Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: News;Weather
 # Каналов: 2
-# Обновлено: 2026-05-22 13:19:42
+# Обновлено: 2026-05-22 14:09:50
 
 #EXTINF:-1 tvg-name="ABC 9 Manchester NH (WMUR-TV)" group-title="News;Weather",ABC 9 Manchester NH (WMUR-TV)
 https://secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8

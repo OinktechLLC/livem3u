@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-05-22 13:19:42
+# Обновлено: 2026-05-22 14:09:50
 # Всего каналов: 7282
 # Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: General;Legislative
 # Каналов: 1
-# Обновлено: 2026-05-22 13:19:42
+# Обновлено: 2026-05-22 14:09:50
 
 #EXTINF:-1 tvg-name="ATXN2" group-title="General;Legislative",ATXN2
 https://secure-272717.tatnet.app/cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
