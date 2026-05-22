@@ -1,0 +1,14 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Classic;Comedy;Public;Series
+# Каналов: 1
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
+https://secure-272717.tatnet.app/fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+

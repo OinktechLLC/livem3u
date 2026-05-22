@@ -1,0 +1,14 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Kids;Lifestyle
+# Каналов: 1
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="QTV-6" group-title="Kids;Lifestyle",QTV-6
+https://secure-272717.tatnet.app/video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+

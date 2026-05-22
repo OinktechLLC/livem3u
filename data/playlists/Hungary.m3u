@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Hungary
-# Каналов: 53
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 50
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="RTL Klub" group-title="Hungary",RTL Klub
 https://secure-272717.tatnet.app/cdn.mediaklikk.org:443/rtl/00wMyEjM5UTM
@@ -57,9 +57,6 @@ https://secure-272717.tatnet.app/live.apostoltv.hu/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio 1 Ⓨ" group-title="Hungary",Radio 1 Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/watch?v=I8dnZoF1nOE
 
-#EXTINF:-1 tvg-name="Dance TV" group-title="Hungary",Dance TV
-https://secure-272717.tatnet.app/m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-
 #EXTINF:-1 tvg-name="Izaura TV" group-title="Hungary",Izaura TV
 https://secure-272717.tatnet.app/78.109.104.240:8000/play/a0ch/index.m3u8?HasBahCa.m3u8
 
@@ -102,9 +99,6 @@ https://secure-272717.tatnet.app/citytv.hu/playlist.m3u8
 #EXTINF:-1 tvg-name="FehérvárTV" group-title="Hungary",FehérvárTV
 https://secure-272717.tatnet.app/cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2
 
-#EXTINF:-1 tvg-name="AlföldTV" group-title="Hungary",AlföldTV
-https://secure-272717.tatnet.app/cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Gyöngyös TV" group-title="Hungary",Gyöngyös TV
 https://secure-272717.tatnet.app/cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8?key=hkNHP
 
@@ -119,9 +113,6 @@ https://secure-272717.tatnet.app/cloudfront41.lexanetwork.com:1344/xrelay/lovers
 
 #EXTINF:-1 tvg-name="Zalaegerszeg TV" group-title="Hungary",Zalaegerszeg TV
 https://secure-272717.tatnet.app/cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Zugló TV" group-title="Hungary",Zugló TV
-https://secure-272717.tatnet.app/cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tisza TV" group-title="Hungary",Tisza TV
 https://secure-272717.tatnet.app/www.tiszatv.hu/onlinetv/tiszatv_1.m3u8

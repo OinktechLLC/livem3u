@@ -1,20 +1,14 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentaries (EN)
-# Каналов: 3
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 1
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="CGTN Documentary English Ⓢ" group-title="Documentaries (EN)",CGTN Documentary English Ⓢ
 https://secure-272717.tatnet.app/news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-
-#EXTINF:-1 tvg-name="RT Documentary English Ⓖ" group-title="Documentaries (EN)",RT Documentary English Ⓖ
-https://secure-272717.tatnet.app/rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Peer TV South Tyrol" group-title="Documentaries (EN)",Peer TV South Tyrol
-https://secure-272717.tatnet.app/iptv.peer.biz/live/peertv-en.m3u8
 

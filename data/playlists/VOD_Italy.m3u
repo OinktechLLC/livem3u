@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: VOD Italy
-# Каналов: 155
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 152
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="Sportitalia LIVE24" group-title="VOD Italy",Sportitalia LIVE24
 https://secure-272717.tatnet.app/di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
@@ -117,12 +117,6 @@ https://secure-272717.tatnet.app/rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m
 #EXTINF:-1 tvg-name="Drammatico – Rakuten TV" group-title="VOD Italy",Drammatico – Rakuten TV
 https://secure-272717.tatnet.app/rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FailArmy" group-title="VOD Italy",FailArmy
-https://secure-272717.tatnet.app/failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="The Pet Collective" group-title="VOD Italy",The Pet Collective
-https://secure-272717.tatnet.app/the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Canale Europa" group-title="VOD Italy",Canale Europa
 https://secure-272717.tatnet.app/canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
 
@@ -191,9 +185,6 @@ https://secure-272717.tatnet.app/minerva-cinemasegreto-1-it.samsung.wurl.tv/play
 
 #EXTINF:-1 tvg-name="Bizzarro Movies" group-title="VOD Italy",Bizzarro Movies
 https://secure-272717.tatnet.app/minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CGtv" group-title="VOD Italy",CGtv
-https://secure-272717.tatnet.app/cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="WP" group-title="VOD Italy",WP
 https://secure-272717.tatnet.app/minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8

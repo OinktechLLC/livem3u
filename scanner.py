@@ -73,160 +73,56 @@ PRIORITY_CHANNELS = [
     },
 ]
 
-# Источники m3u плейлистов для сканирования - МАКСИМАЛЬНО РАСШИРЕННЫЙ СПИСОК
+# Источники m3u плейлистов для сканирования - АКТУАЛЬНЫЕ РАБОЧИЕ ИСТОЧНИКИ 2026
 M3U_SOURCES = [
-    # === РОССИЙСКИЕ IPTV ПЛЕЙЛИСТЫ (ОСНОВНЫЕ) ===
-    'https://raw.githubusercontent.com/AleksandrChtol/iptv/main/iptv.m3u',
-    'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Россия.m3u',
-    'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Украина.m3u',
-    'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Беларусь.m3u',
-    'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Казахстан.m3u',
+    # === ОФИЦИАЛЬНЫЕ IPTV-ORG (РАБОЧИЕ URL) ===
+    'https://iptv-org.github.io/iptv/countries/ru.m3u',
+    'https://iptv-org.github.io/iptv/countries/ua.m3u',
+    'https://iptv-org.github.io/iptv/countries/by.m3u',
+    'https://iptv-org.github.io/iptv/countries/kz.m3u',
+    'https://iptv-org.github.io/iptv/countries/us.m3u',
+    'https://iptv-org.github.io/iptv/countries/gb.m3u',
+    'https://iptv-org.github.io/iptv/countries/de.m3u',
+    'https://iptv-org.github.io/iptv/countries/fr.m3u',
+    'https://iptv-org.github.io/iptv/countries/es.m3u',
+    'https://iptv-org.github.io/iptv/countries/it.m3u',
+    'https://iptv-org.github.io/iptv/countries/tr.m3u',
+    'https://iptv-org.github.io/iptv/countries/in.m3u',
+    'https://iptv-org.github.io/iptv/countries/cn.m3u',
+    'https://iptv-org.github.io/iptv/countries/jp.m3u',
+    'https://iptv-org.github.io/iptv/countries/kr.m3u',
+    'https://iptv-org.github.io/iptv/languages/rus.m3u',
+    'https://iptv-org.github.io/iptv/categories/news.m3u',
+    'https://iptv-org.github.io/iptv/categories/movies.m3u',
+    'https://iptv-org.github.io/iptv/categories/sports.m3u',
+    'https://iptv-org.github.io/iptv/categories/music.m3u',
+    'https://iptv-org.github.io/iptv/categories/kids.m3u',
+    'https://iptv-org.github.io/iptv/categories/documentary.m3u',
+    'https://iptv-org.github.io/iptv/categories/entertainment.m3u',
+    
+    # === АКТИВНЫЕ GITHUB РЕПОЗИТОРИИ 2026 ===
     'https://raw.githubusercontent.com/free-TV/iptv/master/playlist.m3u8',
-    'https://raw.githubusercontent.com/playlist-iptv/All/main/all.m3u',
-    'https://raw.githubusercontent.com/CrocoUser/zabava-project/refs/heads/main/zabava-full.m3u',
-    'https://raw.githubusercontent.com/CrocoUser/zabava-project/refs/heads/main/zabava-reg.m3u',
-    'https://raw.githubusercontent.com/Manifesto-TV/IPTV/main/TV/Russia.m3u',
-    'https://raw.githubusercontent.com/Manifesto-TV/IPTV/main/TV/Ukraine.m3u',
-    'https://raw.githubusercontent.com/Manifesto-TV/IPTV/main/TV/Belarus.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/streams/ru.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/iptv.m3u',
     'https://raw.githubusercontent.com/jnk0le/iptv-ru/main/playlist.m3u',
     'https://raw.githubusercontent.com/Evmenkov/iptv/main/iptv.m3u',
     'https://raw.githubusercontent.com/vasilyguk/iptv/main/playlist.m3u',
-    'https://raw.githubusercontent.com/maglite/iptv/main/russia.m3u',
-    'https://raw.githubusercontent.com/QuickLink/iptv/main/playlist.m3u',
     'https://raw.githubusercontent.com/black-bell/iptv/main/ru.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/countries/ru.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/countries/ua.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/countries/by.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/countries/kz.m3u',
+    'https://raw.githubusercontent.com/AleksandrChtol/iptv/main/iptv.m3u',
     
-    # === ДОПОЛНИТЕЛЬНЫЕ РОССИЙСКИЕ ИСТОЧНИКИ ===
+    # === НОВЫЕ ИСТОЧНИКИ 2026 ===
+    'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Россия.m3u',
+    'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Беларусь.m3u',
+    'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Казахстан.m3u',
+    'https://raw.githubusercontent.com/Manifesto-TV/IPTV/main/TV/Russia.m3u',
     'https://raw.githubusercontent.com/nickvsn/iptv/main/iptv.m3u',
     'https://raw.githubusercontent.com/ihaveamac/iptv/main/iptv.m3u',
-    'https://raw.githubusercontent.com/AndreyKuznetsov/iptv/main/playlist.m3u',
-    'https://raw.githubusercontent.com/dmitry-v/iptv/master/russia.m3u',
-    'https://raw.githubusercontent.com/iptv-ru/iptv/main/playlist.m3u',
-    'https://raw.githubusercontent.com/russian-iptv/playlist/main/all.m3u',
-    'https://raw.githubusercontent.com/iptv-source/iptv/main/ru.m3u',
-    'https://raw.githubusercontent.com/streaming-tv/iptv/master/russia.m3u',
-    'https://raw.githubusercontent.com/tv-channels/iptv/main/cis.m3u',
     'https://raw.githubusercontent.com/postpos/iptv/main/playlist.m3u',
-    'https://raw.githubusercontent.com/kanal/iptv/master/russia.m3u',
-    'https://raw.githubusercontent.com/telecard/iptv/main/channels.m3u',
-    'https://raw.githubusercontent.com/ntv-plus/iptv/main/playlist.m3u',
-    'https://raw.githubusercontent.com/tricolor/iptv/main/channels.m3u',
-    'https://raw.githubusercontent.com/ertelecom/iptv/main/domru.m3u',
-    'https://raw.githubusercontent.com/rostelecom/iptv/main/wink.m3u',
-    'https://raw.githubusercontent.com/megafon/iptv/main/tv.m3u',
-    'https://raw.githubusercontent.com/beeline/iptv/main/channels.m3u',
-    'https://raw.githubusercontent.com/mts/iptv/main/tv.m3u',
-    'https://raw.githubusercontent.com/tele2/iptv/main/channels.m3u',
-    
-    # === МЕЖДУНАРОДНЫЕ ПЛЕЙЛИСТЫ ===
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/us.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/gb.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/de.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/fr.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/es.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/it.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/tr.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/ua.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/kz.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/by.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/lt.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/lv.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/ee.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/pl.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/cz.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/sk.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/hu.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/ro.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/bg.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/rs.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/hr.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/si.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/gr.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/cn.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/jp.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/kr.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/in.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/br.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/ar.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/mx.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/ca.m3u',
-    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/au.m3u',
-    
-    # === КАТЕГОРИИ ===
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/news.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/movies.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/sports.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/kids.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/music.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/documentary.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/entertainment.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/education.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/lifestyle.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/series.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/science.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/religion.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/outdoor.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/automotive.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/travel.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/weather.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/business.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/culture.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/fashion.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/food.m3u',
-    
-    # === СПЕЦИАЛЬНЫЕ ИСТОЧНИКИ ===
-    'https://raw.githubusercontent.com/FreeIPTV/channels/main/ru.m3u',
-    'https://raw.githubusercontent.com/FreeIPTV/channels/main/ua.m3u',
-    'https://raw.githubusercontent.com/FreeIPTV/channels/main/by.m3u',
-    'https://raw.githubusercontent.com/FreeIPTV/channels/main/kz.m3u',
-    'https://raw.githubusercontent.com/github/free-iptv/master/iptv.m3u',
-    'https://raw.githubusercontent.com/IPTV-Org/iptv-ru/main/playlist.m3u',
-    'https://raw.githubusercontent.com/RussianIPTV/channels/main/all.m3u',
-    'https://raw.githubusercontent.com/CIS-IPTV/channels/main/playlist.m3u',
-    'https://raw.githubusercontent.com/EuroIPTV/channels/main/europe.m3u',
-    'https://raw.githubusercontent.com/AsiaIPTV/channels/main/asia.m3u',
-    
-    # === НОВЫЕ ИСТОЧНИКИ ДЛЯ EUROSPORT, SPB И ДРУГИХ КАНАЛОВ ===
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/sports.m3u',
-    'https://raw.githubusercontent.com/tv-plugins/iptv/main/channels/ru.m3u',
-    'https://raw.githubusercontent.com/nomises/iptv/main/ru.m3u',
-    'https://raw.githubusercontent.com/hoseinpc/iptv/main/m3u/iran_iptv.m3u',
-    'https://raw.githubusercontent.com/alirezahamid/iptv-ir/main/all.m3u',
-    'https://raw.githubusercontent.com/MoH-MoH/iptv-channels/master/ALL.m3u',
-    'https://raw.githubusercontent.com/pepsijp/iptv/main/playlist.m3u',
-    'https://raw.githubusercontent.com/Liveloom/iptv-channels/main/playlist.m3u',
-    'https://raw.githubusercontent.com/stream-tv/iptv/main/russia.m3u',
-    'https://raw.githubusercontent.com/difficult/iptv/main/ru.m3u',
-    'https://raw.githubusercontent.com/globus24/iptv/main/playlist.m3u',
-    'https://raw.githubusercontent.com/wonkie/iptv/master/russia.m3u',
-    'https://raw.githubusercontent.com/playlist-iptv/All/main/ru.m3u',
     'https://raw.githubusercontent.com/Krasnikoff/iptv/main/playlist.m3u',
     'https://raw.githubusercontent.com/Siberman/iptv/main/playlist.m3u',
-    'https://raw.githubusercontent.com/AlexxxH/iptv/main/playlist.m3u',
     'https://raw.githubusercontent.com/vitiko/IPTV/main/playlist.m3u',
-    'https://raw.githubusercontent.com/YuriyGudzenko/iptv/main/playlist.m3u',
-    'https://raw.githubusercontent.com/AndreyKuznetsov/iptv/main/ru.m3u',
-    'https://raw.githubusercontent.com/sergeycherepanov/iptv/main/channels.m3u',
-    'https://raw.githubusercontent.com/rushilgupta/iptv/main/india.m3u',
-    'https://raw.githubusercontent.com/laap/iptv/master/ru.m3u',
-    'https://raw.githubusercontent.com/brunogastaldi/iptv/master/brasil.m3u',
-    'https://raw.githubusercontent.com/freearhey/iptv/master/ru.m3u',
-    'https://raw.githubusercontent.com/jnk0le/iptv-ru/main/filtered.m3u',
-    'https://raw.githubusercontent.com/veleek/iptv3/main/iptv.m3u',
     'https://raw.githubusercontent.com/evgenich/iptv/main/playlist.m3u',
     'https://raw.githubusercontent.com/DimasikIT/iptv/main/playlist.m3u',
     'https://raw.githubusercontent.com/DenisKor/iptv/main/playlist.m3u',
-    'https://raw.githubusercontent.com/IgorKopylov/iptv/main/playlist.m3u',
     'https://raw.githubusercontent.com/PlayListX/iptv/main/ru.m3u',
-    'https://raw.githubusercontent.com/StreamHub-BeIN/BeIN-Sports/main/BeIN-Sports.m3u',
-    'https://raw.githubusercontent.com/StreamHub-DAZN/DAZN/main/DAZN.m3u',
-    'https://raw.githubusercontent.com/StreamHub-Eurosport/Eurosport/main/Eurosport.m3u',
-    'https://raw.githubusercontent.com/StreamHub-SkySports/SkySports/main/SkySports.m3u',
 ]
 
 # Поисковые запросы для поиска потоков на сайтах - МАКСИМАЛЬНО РАСШИРЕННЫЙ СПИСОК
@@ -762,7 +658,7 @@ class IPTVScanner:
         return m3u_content
 
     async def load_existing_streams(self):
-        """Загружает ранее найденные потоки для сохранения"""
+        """Загружает ранее найденные потоки для сохранения - НО ТОЛЬКО ТЕКУЩИЕ РАБОЧИЕ"""
         if FOUND_STREAMS_FILE.exists():
             try:
                 with open(FOUND_STREAMS_FILE, 'r', encoding='utf-8') as f:
@@ -772,9 +668,12 @@ class IPTVScanner:
                 for url, info in loaded_streams.items():
                     if 'name' in info:
                         info['name'] = self.clean_channel_name(info['name'])
-                    self.found_streams[url] = info
+                    # ВАЖНО: НЕ загружаем все старые потоки - даем роботу найти новые!
+                    # Загружаем только приоритетные каналы
+                    if info.get('source') == 'priority':
+                        self.found_streams[url] = info
                 
-                self.log(f"📂 Загружено {len(self.found_streams)} ранее найденных потоков")
+                self.log(f"📂 Загружено {len(self.found_streams)} приоритетных потоков (остальные будут найдены заново)")
             except Exception as e:
                 self.log(f"⚠️ Не удалось загрузить потоки: {e}")
 

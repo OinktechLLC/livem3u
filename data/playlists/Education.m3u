@@ -1,0 +1,365 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Education
+# Каналов: 118
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="МосОбрТВ" group-title="Education",МосОбрТВ
+https://secure-272717.tatnet.app/retc.educom.ru/mosobrtv/tv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Midpen Media Center Youth Education and Sports Channel 28" group-title="Education",Midpen Media Center Youth Education and Sports Channel 28
+https://secure-272717.tatnet.app/5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rai Scuola (576p) [Geo-blocked]" group-title="Education",Rai Scuola (576p) [Geo-blocked]
+https://secure-272717.tatnet.app/mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+
+#EXTINF:-1 tvg-name="Rai Scuola" group-title="Education",Rai Scuola
+https://secure-272717.tatnet.app/srv1.adriatelekom.com/RaiScuola/index.m3u8
+
+#EXTINF:-1 tvg-name="CETV1 (576p)" group-title="Education",CETV1 (576p)
+https://secure-272717.tatnet.app/117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
+
+#EXTINF:-1 tvg-name="CETV2 (576p)" group-title="Education",CETV2 (576p)
+https://secure-272717.tatnet.app/117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
+
+#EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="Education",Da Vinci (576p)
+https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH205/index.m3u8
+
+#EXTINF:-1 tvg-name="English Class" group-title="Education",English Class
+https://secure-272717.tatnet.app/31.148.48.15/English_club_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Кто есть Кто (576p)" group-title="Education",Кто есть Кто (576p)
+https://secure-272717.tatnet.app/31.148.48.15/Kto_est_kto/index.m3u8
+
+#EXTINF:-1 tvg-name="Arkansas PBS [Geo-blocked]" group-title="Education",Arkansas PBS [Geo-blocked]
+https://secure-272717.tatnet.app/ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+
+#EXTINF:-1 tvg-name="Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)" group-title="Education",Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
+
+#EXTINF:-1 tvg-name="BUTV10 (Boston University)" group-title="Education",BUTV10 (Boston University)
+https://secure-272717.tatnet.app/cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-name="Cloudflare TV" group-title="Education",Cloudflare TV
+https://secure-272717.tatnet.app/cloudflare.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-name="Create" group-title="Education",Create
+https://secure-272717.tatnet.app/create.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-name="CreaTV Classrooms Channel 28 (San Jose CA)" group-title="Education",CreaTV Classrooms Channel 28 (San Jose CA)
+https://secure-272717.tatnet.app/reflect-creatv.cablecast.tv/live-14/live/live.m3u8
+
+#EXTINF:-1 tvg-name="DC.gov DKN (Washington DC)" group-title="Education",DC.gov DKN (Washington DC)
+https://secure-272717.tatnet.app/video.oct.dc.gov/out/u/DKN.m3u8
+
+#EXTINF:-1 tvg-name="Fresno CMAC 2 Education Channel" group-title="Education",Fresno CMAC 2 Education Channel
+https://secure-272717.tatnet.app/reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-name="Haddam Killingworth High School TV (HKTV) [Geo-blocked]" group-title="Education",Haddam Killingworth High School TV (HKTV) [Geo-blocked]
+https://secure-272717.tatnet.app/reflect-hktv.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-name="KBEV Spectrum Channel 6 [Beverly Hills]" group-title="Education",KBEV Spectrum Channel 6 [Beverly Hills]
+https://secure-272717.tatnet.app/s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-name="KCAT Public Media TV" group-title="Education",KCAT Public Media TV
+https://secure-272717.tatnet.app/reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
+
+#EXTINF:-1 tvg-name="Leominster TV Educational" group-title="Education",Leominster TV Educational
+https://secure-272717.tatnet.app/livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Los Angeles Local Television Channel 36" group-title="Education",Los Angeles Local Television Channel 36
+https://secure-272717.tatnet.app/reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-name="Manatee Schools Television MSTV (Manatee County FL)" group-title="Education",Manatee Schools Television MSTV (Manatee County FL)
+https://secure-272717.tatnet.app/reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
+
+#EXTINF:-1 tvg-name="Mobile County Public Schools TV Network (MCPSS)" group-title="Education",Mobile County Public Schools TV Network (MCPSS)
+https://secure-272717.tatnet.app/5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nashua ETV Channel 22 Nashua NH" group-title="Education",Nashua ETV Channel 22 Nashua NH
+https://secure-272717.tatnet.app/livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Natick Education Channel" group-title="Education",Natick Education Channel
+https://secure-272717.tatnet.app/livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Oceanside Community Television (KOCT) Education and Government Channel 19" group-title="Education",Oceanside Community Television (KOCT) Education and Government Channel 19
+https://secure-272717.tatnet.app/securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
+
+#EXTINF:-1 tvg-name="Payam Javan TV" group-title="Education",Payam Javan TV
+https://secure-272717.tatnet.app/uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PBS Honolulu HI (KHET)" group-title="Education",PBS Honolulu HI (KHET)
+https://secure-272717.tatnet.app/khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
+
+#EXTINF:-1 tvg-name="PBS KET Louisville KY (WKMJ-TV)" group-title="Education",PBS KET Louisville KY (WKMJ-TV)
+https://secure-272717.tatnet.app/2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PBS Lincoln NE (KUON) [Geo-blocked]" group-title="Education",PBS Lincoln NE (KUON) [Geo-blocked]
+https://secure-272717.tatnet.app/kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
+
+#EXTINF:-1 tvg-name="PBS National East [Geo-blocked]" group-title="Education",PBS National East [Geo-blocked]
+https://secure-272717.tatnet.app/pbs.lls.cdn.pbs.org/est/index.m3u8
+
+#EXTINF:-1 tvg-name="PBS Sedalia British Columbia MO (KMOS) [Geo-blocked]" group-title="Education",PBS Sedalia British Columbia MO (KMOS) [Geo-blocked]
+https://secure-272717.tatnet.app/hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+
+#EXTINF:-1 tvg-name="Poudre School District TV (PSD TV) (Fort Collins CO)" group-title="Education",Poudre School District TV (PSD TV) (Fort Collins CO)
+https://secure-272717.tatnet.app/reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
+
+#EXTINF:-1 tvg-name="Red Apple 21 (Fairfax County Public Schools) (480p)" group-title="Education",Red Apple 21 (Fairfax County Public Schools) (480p)
+https://secure-272717.tatnet.app/cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Santa Maria Community Television Education Channel" group-title="Education",Santa Maria Community Television Education Channel
+https://secure-272717.tatnet.app/livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Southeastern Channel (540p)" group-title="Education",The Southeastern Channel (540p)
+https://secure-272717.tatnet.app/147.174.13.196/live/live.m3u8
+
+#EXTINF:-1 tvg-name="TUTV" group-title="Education",TUTV
+https://secure-272717.tatnet.app/livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UCTV University of California" group-title="Education",UCTV University of California
+https://secure-272717.tatnet.app/59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="World Channel" group-title="Education",World Channel
+https://secure-272717.tatnet.app/world.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-name="WPS TV (360p)" group-title="Education",WPS TV (360p)
+https://secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ARD-alpha" group-title="Education",ARD-alpha
+https://secure-272717.tatnet.app/mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="ARD-alpha (576p) [Geo-Blocked]" group-title="Education",ARD-alpha (576p) [Geo-Blocked]
+https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+
+#EXTINF:-1 tvg-name="iSTUFF" group-title="Education",iSTUFF
+https://secure-272717.tatnet.app/relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+
+#EXTINF:-1 tvg-name="NRWision" group-title="Education",NRWision
+https://secure-272717.tatnet.app/fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SPIEGEL TV" group-title="Education",SPIEGEL TV
+https://secure-272717.tatnet.app/jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
+
+#EXTINF:-1 tvg-name="Animaux [Geo-Blocked]" group-title="Education",Animaux [Geo-Blocked]
+https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
+
+#EXTINF:-1 tvg-name="Platzi TV" group-title="Education",Platzi TV
+https://secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA Ilkokul" group-title="Education",TRT EBA Ilkokul
+https://secure-272717.tatnet.app/tv-e-okul00.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA Lise" group-title="Education",TRT EBA Lise
+https://secure-272717.tatnet.app/tv-e-okul02.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA Ortaokul" group-title="Education",TRT EBA Ortaokul
+https://secure-272717.tatnet.app/tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="BVG (576p)" group-title="Education",BVG (576p)
+https://secure-272717.tatnet.app/mumt05.tangotv.in/BVG/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Shala (576p)" group-title="Education",Digi Shala (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1227.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 1 (576p)" group-title="Education",E-Vidya 1 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/400.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 2 (576p)" group-title="Education",E-Vidya 2 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/402.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 3 (576p)" group-title="Education",E-Vidya 3 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/405.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 4 (576p)" group-title="Education",E-Vidya 4 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/406.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 5 (576p)" group-title="Education",E-Vidya 5 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/407.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 6 (576p)" group-title="Education",E-Vidya 6 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/408.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 7 (576p)" group-title="Education",E-Vidya 7 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/404.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 8 (576p)" group-title="Education",E-Vidya 8 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/409.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 9 (576p)" group-title="Education",E-Vidya 9 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/410.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 10 (576p)" group-title="Education",E-Vidya 10 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/411.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 11 (576p)" group-title="Education",E-Vidya 11 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1410.m3u8
+
+#EXTINF:-1 tvg-name="E-Vidya 12 (576p)" group-title="Education",E-Vidya 12 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1532.m3u8
+
+#EXTINF:-1 tvg-name="Gyandarshan" group-title="Education",Gyandarshan
+https://secure-272717.tatnet.app/cdn-6.pishow.tv/live/14/master.m3u8
+
+#EXTINF:-1 tvg-name="KITE Victers (Kerala)" group-title="Education",KITE Victers (Kerala)
+https://secure-272717.tatnet.app/932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 1 (576p)" group-title="Education",Swayam Prabha 1 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/980.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 3 (576p)" group-title="Education",Swayam Prabha 3 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/982.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 4 (576p)" group-title="Education",Swayam Prabha 4 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/984.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 5 (576p)" group-title="Education",Swayam Prabha 5 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/986.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 6 (576p)" group-title="Education",Swayam Prabha 6 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/987.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 7 (576p)" group-title="Education",Swayam Prabha 7 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/985.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 8 (576p)" group-title="Education",Swayam Prabha 8 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/983.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 9 (576p)" group-title="Education",Swayam Prabha 9 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/988.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 10 (576p)" group-title="Education",Swayam Prabha 10 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/989.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 11 (576p)" group-title="Education",Swayam Prabha 11 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/990.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 12 (576p)" group-title="Education",Swayam Prabha 12 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/991.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 13 (576p)" group-title="Education",Swayam Prabha 13 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/992.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 14 (576p)" group-title="Education",Swayam Prabha 14 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/993.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 15 (576p)" group-title="Education",Swayam Prabha 15 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/995.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 16 (576p)" group-title="Education",Swayam Prabha 16 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/994.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 17 (576p)" group-title="Education",Swayam Prabha 17 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/996.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 18 (576p)" group-title="Education",Swayam Prabha 18 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/999.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 19 (576p)" group-title="Education",Swayam Prabha 19 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/401.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 20 (576p)" group-title="Education",Swayam Prabha 20 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/403.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 21 (576p)" group-title="Education",Swayam Prabha 21 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/997.m3u8
+
+#EXTINF:-1 tvg-name="Swayam Prabha 22 (576p)" group-title="Education",Swayam Prabha 22 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/998.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 1 (576p)" group-title="Education",Vande Gujarat 1 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1069.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 2 (576p)" group-title="Education",Vande Gujarat 2 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1070.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 3 (576p)" group-title="Education",Vande Gujarat 3 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1082.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 4 (576p)" group-title="Education",Vande Gujarat 4 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1071.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 5 (576p)" group-title="Education",Vande Gujarat 5 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1083.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 6 (576p)" group-title="Education",Vande Gujarat 6 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1084.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 7 (576p)" group-title="Education",Vande Gujarat 7 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1085.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 8 (576p)" group-title="Education",Vande Gujarat 8 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1086.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 9 (576p)" group-title="Education",Vande Gujarat 9 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1087.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 10 (576p)" group-title="Education",Vande Gujarat 10 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1088.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 11 (576p)" group-title="Education",Vande Gujarat 11 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1089.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 12 (576p)" group-title="Education",Vande Gujarat 12 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1090.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 13 (576p)" group-title="Education",Vande Gujarat 13 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1091.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 14 (576p)" group-title="Education",Vande Gujarat 14 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1092.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 15 (576p)" group-title="Education",Vande Gujarat 15 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1093.m3u8
+
+#EXTINF:-1 tvg-name="Vande Gujarat 16 (576p)" group-title="Education",Vande Gujarat 16 (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/1094.m3u8
+
+#EXTINF:-1 tvg-name="Vyas NIC (576p)" group-title="Education",Vyas NIC (576p)
+https://secure-272717.tatnet.app/playhls.media.nic.in/hls/live/vyas/vyas.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-7" group-title="Education",CCTV-7
+https://secure-272717.tatnet.app/74.91.26.218:82/live/cctv7hd.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-10" group-title="Education",CCTV-10
+https://secure-272717.tatnet.app/74.91.26.218:82/live/cctv10hd.m3u8
+
+#EXTINF:-1 tvg-name="Channel Law" group-title="Education",Channel Law
+https://secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.2.201:5140
+
+#EXTINF:-1 tvg-name="Shandong Education TV" group-title="Education",Shandong Education TV
+https://secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.0.156:5140
+
+#EXTINF:-1 tvg-name="江苏教育 (576p)" group-title="Education",江苏教育 (576p)
+https://secure-272717.tatnet.app/223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+
+#EXTINF:-1 tvg-name="JOAB-DTV" group-title="Education",JOAB-DTV
+https://secure-272717.tatnet.app/cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+
+#EXTINF:-1 tvg-name="EBS 1 (400p)" group-title="Education",EBS 1 (400p)
+https://secure-272717.tatnet.app/ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS 2 (400p)" group-title="Education",EBS 2 (400p)
+https://secure-272717.tatnet.app/ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS E (400p)" group-title="Education",EBS E (400p)
+https://secure-272717.tatnet.app/ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS+ 1 (400p)" group-title="Education",EBS+ 1 (400p)
+https://secure-272717.tatnet.app/ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS+ 2 (400p)" group-title="Education",EBS+ 2 (400p)
+https://secure-272717.tatnet.app/ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBS Korea Agricultural Broadcasting" group-title="Education",NBS Korea Agricultural Broadcasting
+https://secure-272717.tatnet.app/media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OUN" group-title="Education",OUN
+https://secure-272717.tatnet.app/live.knou.ac.kr/knou1/live1/playlist.m3u8
+

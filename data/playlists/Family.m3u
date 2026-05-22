@@ -1,0 +1,53 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Family
+# Каналов: 14
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Family",STS Love (576i)" group-title="Family",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Family",STS Love (576i)
+https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
+
+#EXTINF:-1 tvg-name="СТС (+4) (576p)" group-title="Family",СТС (+4) (576p)
+https://secure-272717.tatnet.app/31.148.48.15/STS/index.m3u8
+
+#EXTINF:-1 tvg-name="AMG TV" group-title="Family",AMG TV
+https://secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dove Channel" group-title="Family",Dove Channel
+https://secure-272717.tatnet.app/linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Freeform [Geo-blocked]" group-title="Family",Freeform [Geo-blocked]
+https://secure-272717.tatnet.app/tvpass.org/live/FreeformEast/hd
+
+#EXTINF:-1 tvg-name="Positiv TV" group-title="Family",Positiv TV
+https://secure-272717.tatnet.app/livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective [Geo-blocked]" group-title="Family",The Pet Collective [Geo-blocked]
+https://secure-272717.tatnet.app/pb-jc9emctsujawo.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVS Family Channel (360p)" group-title="Family",TVS Family Channel (360p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
+https://secure-272717.tatnet.app/the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
+https://secure-272717.tatnet.app/the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
+https://secure-272717.tatnet.app/the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="四川妇女儿童" group-title="Family",四川妇女儿童
+https://secure-272717.tatnet.app/scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+
+#EXTINF:-1 tvg-name="Family Gekijo (544p)" group-title="Family",Family Gekijo (544p)
+https://secure-272717.tatnet.app/cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+
+#EXTINF:-1 tvg-name="Sevimli TV" group-title="Family",Sevimli TV
+https://secure-272717.tatnet.app/stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
+

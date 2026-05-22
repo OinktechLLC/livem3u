@@ -1,0 +1,32 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Science
+# Каналов: 7
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name=".sci-fi (576p)" group-title="Science",.sci-fi (576p)
+https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH175/index.m3u8
+
+#EXTINF:-1 tvg-name="Eko TV" group-title="Science",Eko TV
+https://secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Science" group-title="Science",Pluto TV Science
+https://secure-272717.tatnet.app/jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+
+#EXTINF:-1 tvg-name="Smithsonian Channel Pluto TV" group-title="Science",Smithsonian Channel Pluto TV
+https://secure-272717.tatnet.app/jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Space" group-title="Science",Pluto TV Space
+https://secure-272717.tatnet.app/jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+
+#EXTINF:-1 tvg-name="InWonder" group-title="Science",InWonder
+https://secure-272717.tatnet.app/amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-name="山东农科 (406p) [Geo-blocked]" group-title="Science",山东农科 (406p) [Geo-blocked]
+https://secure-272717.tatnet.app/livealone302.iqilu.com/iqilu/nkpd.m3u8
+

@@ -1,0 +1,80 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Animation
+# Каналов: 23
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="FilmRise Anime" group-title="Animation",FilmRise Anime
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
+https://secure-272717.tatnet.app/pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ANIME x HIDIVE" group-title="Animation",ANIME x HIDIVE
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Blues TV" group-title="Animation",Blues TV
+https://secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Movies for Gamers" group-title="Animation",Movies for Gamers
+https://secure-272717.tatnet.app/jmp2.uk/plu-6008ddf24ef92b00079d61cf.m3u8
+
+#EXTINF:-1 tvg-name="Naruto" group-title="Animation",Naruto
+https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Naruto" group-title="Animation",Naruto
+https://secure-272717.tatnet.app/jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+
+#EXTINF:-1 tvg-name="One Piece" group-title="Animation",One Piece
+https://secure-272717.tatnet.app/jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Anime" group-title="Animation",Pluto TV Anime
+https://secure-272717.tatnet.app/jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Anime Movies" group-title="Animation",Pluto TV Anime Movies
+https://secure-272717.tatnet.app/jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+
+#EXTINF:-1 tvg-name="Toonami Aftermath East (480p)" group-title="Animation",Toonami Aftermath East (480p)
+https://secure-272717.tatnet.app/api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animation",Yu-Gi-Oh!
+https://secure-272717.tatnet.app/amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Naruto" group-title="Animation",Naruto
+https://secure-272717.tatnet.app/jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Anime" group-title="Animation",Pluto TV Anime
+https://secure-272717.tatnet.app/jmp2.uk/plu-608181d420fc8500075f612a.m3u8
+
+#EXTINF:-1 tvg-name="ADN TV+" group-title="Animation",ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+
+#EXTINF:-1 tvg-name="Gong" group-title="Animation",Gong
+https://secure-272717.tatnet.app/amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-name="One Piece" group-title="Animation",One Piece
+https://secure-272717.tatnet.app/jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
+
+#EXTINF:-1 tvg-name="South Park" group-title="Animation",South Park
+https://secure-272717.tatnet.app/jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
+
+#EXTINF:-1 tvg-name="Anime Vision" group-title="Animation",Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 tvg-name="Anime Vision Classics" group-title="Animation",Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 tvg-name="Anime Zone TV (480p)" group-title="Animation",Anime Zone TV (480p)
+https://secure-272717.tatnet.app/animezonetv.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="One Piece" group-title="Animation",One Piece
+https://secure-272717.tatnet.app/jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+
+#EXTINF:-1 tvg-name="Animax Asia India [Geo-blocked]" group-title="Animation",Animax Asia India [Geo-blocked]
+https://secure-272717.tatnet.app/amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+

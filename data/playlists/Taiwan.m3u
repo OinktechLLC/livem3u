@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Taiwan
-# Каналов: 11
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 10
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="CTV News Channel (中視新聞台) Ⓨ" group-title="Taiwan",CTV News Channel (中視新聞台) Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/watch?v=TCnaIE_SAtM
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/seb.sason.top/ptv/ftv.php?id=ms
 
 #EXTINF:-1 tvg-name="FTV One (民視第一台)" group-title="Taiwan",FTV One (民視第一台)
 https://secure-272717.tatnet.app/seb.sason.top/ptv/ftv.php?id=dy
-
-#EXTINF:-1 tvg-name="FTV Taiwan (民視台灣台)" group-title="Taiwan",FTV Taiwan (民視台灣台)
-https://secure-272717.tatnet.app/seb.sason.top/ptv/ftv.php?id=tw
 
 #EXTINF:-1 tvg-name="TTV Main Channel (臺灣電視台) Ⓨ Ⓖ" group-title="Taiwan",TTV Main Channel (臺灣電視台) Ⓨ Ⓖ
 https://secure-272717.tatnet.app/www.youtube.com/watch?v=uDqQo8a7Xmk

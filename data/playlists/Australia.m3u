@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Australia
-# Каналов: 9
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 8
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="ABC" group-title="Australia",ABC
 https://secure-272717.tatnet.app/c.mjh.nz/101002210221/
@@ -26,9 +26,6 @@ https://secure-272717.tatnet.app/5a32c05065c79.streamlock.net/live/stream/playli
 
 #EXTINF:-1 tvg-name="Racing.com" group-title="Australia",Racing.com
 https://secure-272717.tatnet.app/racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-
-#EXTINF:-1 tvg-name="9Go! Ⓖ" group-title="Australia",9Go! Ⓖ
-https://secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 
 #EXTINF:-1 tvg-name="9Life Ⓖ" group-title="Australia",9Life Ⓖ
 https://secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8

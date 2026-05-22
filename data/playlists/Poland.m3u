@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Poland
-# Каналов: 13
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 12
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="TVP ABC 2" group-title="Poland",TVP ABC 2
 https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=TVPABC2
@@ -44,7 +44,4 @@ https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=TVP
 
 #EXTINF:-1 tvg-name="TVP Kultura 2" group-title="Poland",TVP Kultura 2
 https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
-
-#EXTINF:-1 tvg-name="4fun.tv Ⓢ" group-title="Poland",4fun.tv Ⓢ
-https://secure-272717.tatnet.app/stream.4fun.tv:8888/hls/4f_high/index.m3u8
 

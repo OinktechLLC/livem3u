@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Canada
-# Каналов: 33
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 32
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="CBC News" group-title="Canada",CBC News
 https://secure-272717.tatnet.app/cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
@@ -80,9 +80,6 @@ https://secure-272717.tatnet.app/live.canadastartv.com:1935/canadastartv/canadas
 
 #EXTINF:-1 tvg-name="CPAC (EN)" group-title="Canada",CPAC (EN)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-
-#EXTINF:-1 tvg-name="ICI RDI" group-title="Canada",ICI RDI
-https://secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 #EXTINF:-1 tvg-name="ICI Télé Ⓖ" group-title="Canada",ICI Télé Ⓖ
 https://secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
