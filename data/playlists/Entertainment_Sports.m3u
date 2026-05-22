@@ -1,0 +1,20 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Entertainment;Sports
+# Каналов: 3
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Entertainment;Sports",Right Now Tv" group-title="Entertainment;Sports",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Entertainment;Sports",Right Now Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8?ads.vf=XXIrbw6_Odq
+
+#EXTINF:-1 tvg-name="ITV Deportes" group-title="Entertainment;Sports",ITV Deportes
+https://secure-272717.tatnet.app/thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-name="Đồng Nai 2 (480p)" group-title="Entertainment;Sports",Đồng Nai 2 (480p)
+https://secure-272717.tatnet.app/118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+

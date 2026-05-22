@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Chile
-# Каналов: 21
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 18
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="UCV Televisión" group-title="Chile",UCV Televisión
 https://secure-272717.tatnet.app/unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
@@ -39,20 +39,11 @@ https://secure-272717.tatnet.app/unlimited1-us.dps.live/uchiletv/uchiletv.smil/p
 #EXTINF:-1 tvg-name="T13 en vivo" group-title="Chile",T13 en vivo
 https://secure-272717.tatnet.app/redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="13 Entretención" group-title="Chile",13 Entretención
-https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-
 #EXTINF:-1 tvg-name="13 Cultura" group-title="Chile",13 Cultura
 https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-name="13 Prime" group-title="Chile",13 Prime
 https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-
-#EXTINF:-1 tvg-name="13 Kids" group-title="Chile",13 Kids
-https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-
-#EXTINF:-1 tvg-name="13 Realities" group-title="Chile",13 Realities
-https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Chile",13 Teleseries
 https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8

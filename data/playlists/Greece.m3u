@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Greece
-# Каналов: 62
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 56
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="ERT 1 Ⓖ" group-title="Greece",ERT 1 Ⓖ
 https://secure-272717.tatnet.app/ertflix.ascdn.broadpeak.io/ertlive/ert1/default/index.mpd
@@ -33,20 +33,11 @@ https://secure-272717.tatnet.app/ertflix.akamaized.net/ertlive/music/default/ind
 #EXTINF:-1 tvg-name="Mega News" group-title="Greece",Mega News
 https://secure-272717.tatnet.app/c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Alert" group-title="Greece",Alert
-https://secure-272717.tatnet.app/itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Blue Sky" group-title="Greece",Blue Sky
 https://secure-272717.tatnet.app/cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Gnomi" group-title="Greece",Gnomi
 https://secure-272717.tatnet.app/live.streams.ovh:8081/gnomitv/index.m3u8
-
-#EXTINF:-1 tvg-name="Vergina" group-title="Greece",Vergina
-https://secure-272717.tatnet.app/verginanews.gr:8443/hls_live/stream1.m3u8
-
-#EXTINF:-1 tvg-name="Corfu" group-title="Greece",Corfu
-https://secure-272717.tatnet.app/itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ERT 2 Ⓖ" group-title="Greece",ERT 2 Ⓖ
 https://secure-272717.tatnet.app/ertflix.ascdn.broadpeak.io/ert2/default/index.mpd
@@ -62,9 +53,6 @@ https://secure-272717.tatnet.app/lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc
 
 #EXTINF:-1 tvg-name="Star" group-title="Greece",Star
 https://secure-272717.tatnet.app/livestar.siliconweb.com/starvod/star4/star4.m3u8
-
-#EXTINF:-1 tvg-name="Star International" group-title="Greece",Star International
-https://secure-272717.tatnet.app/livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 
 #EXTINF:-1 tvg-name="AlphaTV" group-title="Greece",AlphaTV
 https://secure-272717.tatnet.app/alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
@@ -141,9 +129,6 @@ https://secure-272717.tatnet.app/neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1 tvg-name="Star Central Greece" group-title="Greece",Star Central Greece
 https://secure-272717.tatnet.app/telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash
 
-#EXTINF:-1 tvg-name="91NRG" group-title="Greece",91NRG
-https://secure-272717.tatnet.app/tv.nrg91.gr:1935/onweb/live/master.m3u8
-
 #EXTINF:-1 tvg-name="Thessalia" group-title="Greece",Thessalia
 https://secure-272717.tatnet.app/thessaliachannel.gr:3339/live/thesstvlive.m3u8
 
@@ -158,9 +143,6 @@ https://secure-272717.tatnet.app/rtmp.win:3696/live/arttvgrlive.m3u8
 
 #EXTINF:-1 tvg-name="Epirus TV 1" group-title="Greece",Epirus TV 1
 https://secure-272717.tatnet.app/rtmp.win:3929/live/epiruslive.m3u8
-
-#EXTINF:-1 tvg-name="Start" group-title="Greece",Start
-https://secure-272717.tatnet.app/live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Center TV" group-title="Greece",Center TV
 https://secure-272717.tatnet.app/eu1.streams.gr:8081/centertv/index.m3u8

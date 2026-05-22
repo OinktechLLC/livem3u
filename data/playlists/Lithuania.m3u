@@ -1,22 +1,19 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lithuania
-# Каналов: 4
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 3
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="LRT TV" group-title="Lithuania",LRT TV
 https://secure-272717.tatnet.app/stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8
 
 #EXTINF:-1 tvg-name="LRT Lituanica" group-title="Lithuania",LRT Lituanica
 https://secure-272717.tatnet.app/stream-live.lrt.lt/lituanica/master.m3u8
-
-#EXTINF:-1 tvg-name="Lietuvos Rytas TV" group-title="Lithuania",Lietuvos Rytas TV
-https://secure-272717.tatnet.app/live.lietuvosryto.tv/live/hls/eteris.m3u8
 
 #EXTINF:-1 tvg-name="Delfi TV" group-title="Lithuania",Delfi TV
 https://secure-272717.tatnet.app/s1.dcdn.lt/live/televizija/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Slovenia
-# Каналов: 8
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 7
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="TV SLO 1" group-title="Slovenia",TV SLO 1
 https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=TVSLO1
@@ -29,7 +29,4 @@ https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=MMC
 
 #EXTINF:-1 tvg-name="Nova 24 TV Ⓨ" group-title="Slovenia",Nova 24 TV Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/@Nova24TVSlovenija/live
-
-#EXTINF:-1 tvg-name="Folx Slovenija" group-title="Slovenia",Folx Slovenija
-https://secure-272717.tatnet.app/cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
 

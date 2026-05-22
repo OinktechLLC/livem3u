@@ -1,0 +1,14 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Documentary;Education;Science
+# Каналов: 1
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science",UMSA TVU Internacional
+https://secure-272717.tatnet.app/live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+

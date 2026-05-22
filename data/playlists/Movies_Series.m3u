@@ -1,0 +1,44 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Movies;Series
+# Каналов: 11
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="Amedia Hit" group-title="Movies;Series",Amedia Hit
+https://secure-272717.tatnet.app/31.148.48.15/Amedia_HIT_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Amedia Premium" group-title="Movies;Series",Amedia Premium
+https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH301/index.m3u8
+
+#EXTINF:-1 tvg-name="50 Cent Action" group-title="Movies;Series",50 Cent Action
+https://secure-272717.tatnet.app/jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
+
+#EXTINF:-1 tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series",Ebony TV by Lionsgate
+https://secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OuterSphere" group-title="Movies;Series",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+
+#EXTINF:-1 tvg-name="Squirrel" group-title="Movies;Series",Squirrel
+https://secure-272717.tatnet.app/92.176.119.180:2095/play/a1ey
+
+#EXTINF:-1 tvg-name="Veo7" group-title="Movies;Series",Veo7
+https://secure-272717.tatnet.app/92.176.119.180:2095/play/a1f1
+
+#EXTINF:-1 tvg-name="27 TwentySeven [Geo-blocked]" group-title="Movies;Series",27 TwentySeven [Geo-blocked]
+https://secure-272717.tatnet.app/live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
+
+#EXTINF:-1 tvg-name="@TV" group-title="Movies;Series",@TV
+https://secure-272717.tatnet.app/49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AXN Asia Indonesia" group-title="Movies;Series",AXN Asia Indonesia
+https://secure-272717.tatnet.app/cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1 tvg-name="Pantalla Clásica EC (512p)" group-title="Movies;Series",Pantalla Clásica EC (512p)
+https://secure-272717.tatnet.app/live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+

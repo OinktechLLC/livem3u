@@ -1,0 +1,20 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: General;Music
+# Каналов: 3
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="ACW UG TV (480p)" group-title="General;Music",ACW UG TV (480p)
+https://secure-272717.tatnet.app/live.acwugtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="RTV Glas Drine (404p)" group-title="General;Music",RTV Glas Drine (404p)
+https://secure-272717.tatnet.app/glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
+https://secure-272717.tatnet.app/tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+

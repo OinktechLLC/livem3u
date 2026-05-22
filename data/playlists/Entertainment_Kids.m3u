@@ -1,0 +1,17 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Entertainment;Kids
+# Каналов: 2
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="Unique TV (576p)" group-title="Entertainment;Kids",Unique TV (576p)
+https://secure-272717.tatnet.app/mumt05.tangotv.in/UNIQUETV/index.m3u8
+
+#EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="Entertainment;Kids",9Go! [Geo-blocked]
+https://secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+

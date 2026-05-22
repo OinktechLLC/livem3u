@@ -1,0 +1,14 @@
+#EXTM3U
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Family;General;Movies
+# Каналов: 1
+# Обновлено: 2026-05-22 13:19:42
+
+#EXTINF:-1 tvg-name="MCI Televisión" group-title="Family;General;Movies",MCI Televisión
+https://secure-272717.tatnet.app/video.ejeserver.com/live/mcitelevision.m3u8
+

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Egypt
-# Каналов: 12
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 10
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="Al Qahera News" group-title="Egypt",Al Qahera News
 https://secure-272717.tatnet.app/bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
@@ -21,9 +21,6 @@ https://secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.s
 #EXTINF:-1 tvg-name="Al Ghad Plus" group-title="Egypt",Al Ghad Plus
 https://secure-272717.tatnet.app/playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Al Ghad TV" group-title="Egypt",Al Ghad TV
-https://secure-272717.tatnet.app/eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
-
 #EXTINF:-1 tvg-name="Alhayat TV" group-title="Egypt",Alhayat TV
 https://secure-272717.tatnet.app/cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
 
@@ -32,9 +29,6 @@ https://secure-272717.tatnet.app/5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.
 
 #EXTINF:-1 tvg-name="Huda TV" group-title="Egypt",Huda TV
 https://secure-272717.tatnet.app/cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-
-#EXTINF:-1 tvg-name="Koogi TV" group-title="Egypt",Koogi TV
-https://secure-272717.tatnet.app/5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MBC Masr 1" group-title="Egypt",MBC Masr 1
 https://secure-272717.tatnet.app/mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8

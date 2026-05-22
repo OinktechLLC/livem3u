@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Bosnia and Herzegovina
-# Каналов: 15
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 13
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="BHT 1" group-title="Bosnia and Herzegovina",BHT 1
 https://secure-272717.tatnet.app/bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
@@ -30,14 +30,8 @@ https://secure-272717.tatnet.app/prd-hometv-live-open.spectar.tv/ERO_1_083/playl
 #EXTINF:-1 tvg-name="RTV BN Ⓢ" group-title="Bosnia and Herzegovina",RTV BN Ⓢ
 https://secure-272717.tatnet.app/stream.rtvbn.tv:8080/live/index.m3u8
 
-#EXTINF:-1 tvg-name="RTV Glas Drine" group-title="Bosnia and Herzegovina",RTV Glas Drine
-https://secure-272717.tatnet.app/glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Sevdah Ⓢ" group-title="Bosnia and Herzegovina",Sevdah Ⓢ
 https://secure-272717.tatnet.app/restreamer2.tnt.ba/hls/stream.m3u8
-
-#EXTINF:-1 tvg-name="TNT Kids" group-title="Bosnia and Herzegovina",TNT Kids
-https://secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
 
 #EXTINF:-1 tvg-name="Televizija 5" group-title="Bosnia and Herzegovina",Televizija 5
 https://secure-272717.tatnet.app/balkanmedia.dynu.net/hls/tv5web.m3u8

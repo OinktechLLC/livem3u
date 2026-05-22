@@ -1,16 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Iran
-# Каналов: 4
-# Обновлено: 2026-05-20 12:03:06
-
-#EXTINF:-1 tvg-name="Al-Alam News Network Ⓢ" group-title="Iran",Al-Alam News Network Ⓢ
-https://secure-272717.tatnet.app/live2.alalam.ir/alalam.m3u8
+# Каналов: 3
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="Press TV" group-title="Iran",Press TV
 https://secure-272717.tatnet.app/cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8

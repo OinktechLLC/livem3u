@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:03:06
-# Всего каналов: 4583
-# Новых за сессию: 202
+# Обновлено: 2026-05-22 13:19:42
+# Всего каналов: 7282
+# Новых за сессию: 7282
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cyprus
-# Каналов: 11
-# Обновлено: 2026-05-20 12:03:06
+# Каналов: 10
+# Обновлено: 2026-05-22 13:19:42
 
 #EXTINF:-1 tvg-name="RIK 1 Ⓢ" group-title="Cyprus",RIK 1 Ⓢ
 https://secure-272717.tatnet.app/l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/pl
 
 #EXTINF:-1 tvg-name="Ada TV Ⓢ" group-title="Cyprus",Ada TV Ⓢ
 https://secure-272717.tatnet.app/sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Kıbrıs Genç TV Ⓢ" group-title="Cyprus",Kıbrıs Genç TV Ⓢ
-https://secure-272717.tatnet.app/sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kanal T Ⓢ" group-title="Cyprus",Kanal T Ⓢ
 https://secure-272717.tatnet.app/sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
