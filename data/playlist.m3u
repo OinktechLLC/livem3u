@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-05-23 22:31:36
-# Всего каналов: 16388
-# Новых за сессию: 0
+# Обновлено: 2026-05-23 23:36:52
+# Всего каналов: 16389
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -41038,6 +41038,9 @@ https://secure-272717.tatnet.app/qazaqstantv-stream.qazcdn.com/international/int
 
 #EXTINF:-1 tvg-name="Qyzyljar" group-title="Казахстанские",Qyzyljar
 https://secure-272717.tatnet.app/stream.kaztrk.kz/regional/petropavltv/index.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV" group-title="IPTV",NASA TV
+https://secure-272717.tatnet.app/example.com/live/nasa.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="Albania",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
