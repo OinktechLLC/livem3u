@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 23:01:57
-# Всего каналов: 16403
-# Новых за сессию: 0
+# Обновлено: 2026-05-25 01:34:29
+# Всего каналов: 16413
+# Новых за сессию: 10
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Religious
 # Каналов: 6
-# Обновлено: 2026-05-24 23:01:57
+# Обновлено: 2026-05-25 01:34:29
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
@@ -2666,3 +2666,5 @@ http://157.245.196.186/live/livestream.m3u8
 https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 #EXTINF:-1 tvg-name="GOD TV (396p)" group-title="Religious",GOD TV (396p)
 https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
+#EXTINF:-1 tvg-name="mfm" group-title="Music",mfm
+https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
