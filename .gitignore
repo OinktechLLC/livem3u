@@ -1,1 +1,18 @@
-Nothing should be ignored based on the provided file changes, as they only include HTML source files (`player.html` and `map.html`) which are not build artifacts, dependencies, or temporary files.
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+films.db
+
+# Build artifacts
+*.m3u8
+
+# Environment
+.env
+.env.local
+*.env.*
+```
