@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-27 21:03:53
+# Обновлено: 2026-05-27 21:48:24
 # Всего каналов: 16476
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Новости
-# Каналов: 8
-# Обновлено: 2026-05-27 21:03:54
+# Каналов: 7
+# Обновлено: 2026-05-27 21:48:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Известия" group-title="Новости",Известия
@@ -30,7 +30,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/ifra
 
 #EXTINF:-1 tvg-name="Duma TV" group-title="Новости",Duma TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dumatv.iptv2022.com/index.m3u8
-
-#EXTINF:-1 tvg-name="RBK-TV" group-title="Новости",RBK-TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/online-video.rbc.ru/online2/rbctv.m3u8
 
