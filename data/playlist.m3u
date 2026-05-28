@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-05-27 22:59:10
-# Всего каналов: 16442
-# Новых за сессию: 0
+# Обновлено: 2026-05-28 00:05:30
+# Всего каналов: 16445
+# Новых за сессию: 3
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -11,7 +11,7 @@ https://secure-272717.tatnet.app/stream.tvrain.tv/live/tvrain.m3u8
 #EXTINF:-1 tvg-name="Дождь (резервный)" group-title="News",Дождь (резервный) ⭐
 https://secure-272717.tatnet.app/stream.tvrain.tv/hls/tvrain_live.m3u8
 
-#EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
+#EXTINF:-1 tvg-name="Дождь" group-title="Новости",Дождь
 https://secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -41200,6 +41200,15 @@ https://secure-272717.tatnet.app/stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.
 
 #EXTINF:-1 tvg-name="City Eden MedZdrav" group-title="Развлекательные",City Eden MedZdrav
 https://secure-272717.tatnet.app/stream8.cinerama.uz/blocked/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/46.8.46.14/eurosport/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/91.194.191.241:8081/chid56/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
